@@ -1,4 +1,4 @@
-Hi there 👋 Introducing myself,
+### Hi there 👋 Introducing myself,
 
 <img src="banner linkedin.jpg" alt="banner" width="100%">
 
