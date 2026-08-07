@@ -1,6 +1,6 @@
 Hi there 👋 Introducing myself,
 
-<img src="banner-linkedin.jpg" alt="banner" width="100%">
+<img src="banner linkedin.jpg" alt="banner" width="100%">
 
 I'm Rohit Singh, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, and Power BI.
 
